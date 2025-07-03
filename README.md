@@ -14,6 +14,7 @@ I focus on delivering high-performance, user-friendly solutions using modern UI/
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudahmed1718)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mahmoudahmed.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahmoudahmed1718.github.io/my_portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudahmedhsn@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201065025877)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoudahmed1718&style=flat&color=orange&label=PROFILE+VIEWS)
 
@@ -41,11 +42,11 @@ I focus on delivering high-performance, user-friendly solutions using modern UI/
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Path Tracker** | Real-time robot telemetry app with Bluetooth HC-05, animated + historical graphs, clean architecture with Cubit. | [Repo](https://github.com/abd0-kha1ed/path_tracker) |
-| **LMS System** | Learning Management System for teachers, assistants, and students, built with Flutter & Firebase, secure login, course flow. | [Repo](https://github.com/abd0-kha1ed/lms) |
-| **Attendance System** | Attendance management app using QR codes and instant teacher-student messaging. | [Repo](https://github.com/abd0-kha1ed/attendance-system) |
-| **Fruit Hub** | E-commerce app for browsing, ordering, and managing fresh fruits, with secure checkout and order history. | [Repo](https://github.com/mahmoudahmed1718/ecommerce) |
-| **E-Commerce Dashboard** | Dashboard for managing products, orders, and customers with real-time analytics and inventory. | [Repo](https://github.com/mahmoudahmed1718/ecommercedash) |
+| **Path Tracker** | Real-time robot telemetry app with Bluetooth HC-05, animated + historical graphs, clean architecture with Cubit. | [GitHub](https://github.com/abd0-kha1ed/path_tracker) |
+| **LMS System** | Learning Management System for teachers, assistants, and students, built with Flutter & Firebase, secure login, course flow. | [GitHub](https://github.com/abd0-kha1ed/lms) |
+| **Attendance System** | Attendance management app using QR codes and instant teacher-student messaging. | [GitHub](https://github.com/abd0-kha1ed/attendance-system) |
+| **Fruit Hub** | E-commerce app for browsing, ordering, and managing fresh fruits, with secure checkout and order history. | [GitHub](https://github.com/mahmoudahmed1718/ecommerce) |
+| **E-Commerce Dashboard** | Dashboard for managing products, orders, and customers with real-time analytics and inventory. | [GitHub](https://github.com/mahmoudahmed1718/ecommercedash) |
 
 ---
 
@@ -61,7 +62,7 @@ I focus on delivering high-performance, user-friendly solutions using modern UI/
 ## 📫 Contact
 
 - **Phone / WhatsApp**: [+201065025877](https://wa.me/201065025877)  
-- **Email**: mahmoudahmedhsn@gmail.com  
+- **Email**: [mahmoudahmedhsn@gmail.com](mailto:mahmoudahmedhsn@gmail.com)  
 - **LinkedIn**: [Mahmoud Ahmed Hassan](https://www.linkedin.com/in/mahmoud-ahmed-hassan-8091b8283)  
 - **Portfolio**: [mahmoudahmed.dev](https://mahmoudahmed1718.github.io/my_portfolio/)
 
