@@ -1,14 +1,12 @@
-<div align="center">
+<h1 align="center">👋 Mahmoud Ahmed Hassan</h1>
+<h3 align="center">🚀 Software Engineer | Flutter Developer | 🌐 Portfolio at <a href="https://mahmoudahmed1718.github.io/my_portfolio/">mahmoudahmed.dev</a></h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
-
-<h1>👋 Mahmoud Ahmed Hassan</h1>
-<h3>🚀 Software Engineer | Flutter Developer | 🌐 Portfolio at <a href="https://mahmoudahmed1718.github.io/my_portfolio/">mahmoudahmed.dev</a></h3>
-
-<p>
+<p align="center">
 I am a passionate Flutter developer and software engineer with a strong background in mobile apps, real-time systems, and automation.<br>
 I focus on delivering high-performance, user-friendly solutions using modern UI/UX and clean architecture.
 </p>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ahmed-hassan-8091b8283)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudahmed1718)
@@ -47,15 +45,6 @@ I focus on delivering high-performance, user-friendly solutions using modern UI/
 | 🕒 **Attendance System** | Attendance management app using QR codes and instant teacher-student messaging. | [GitHub](https://github.com/abd0-kha1ed/attendance-system) |
 | 🍎 **Fruit Hub** | E-commerce app for browsing, ordering, and managing fresh fruits, with secure checkout and order history. | [GitHub](https://github.com/mahmoudahmed1718/ecommerce) |
 | 📊 **E-Commerce Dashboard** | Dashboard for managing products, orders, and customers with real-time analytics and inventory. | [GitHub](https://github.com/mahmoudahmed1718/ecommercedash) |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudahmed1718&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudahmed1718&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
 
 ---
 
