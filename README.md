@@ -43,7 +43,7 @@ I focus on delivering high-performance, user-friendly solutions using modern UI/
 | 📍 **Path Tracker** | Real-time robot telemetry app with Bluetooth HC-05, animated + historical graphs, clean architecture with Cubit. | [GitHub](https://github.com/abd0-kha1ed/path_tracker) |
 | 🎓 **LMS System** | Learning Management System for teachers, assistants, and students, built with Flutter & Firebase, secure login, course flow. | [GitHub](https://github.com/abd0-kha1ed/lms) |
 | 🕒 **Attendance System** | Attendance management app using QR codes and instant teacher-student messaging. | [GitHub](https://github.com/abd0-kha1ed/attendance-system) |
-| 🍎 **Fruit Hub** | E-commerce app for browsing, ordering, and managing fresh fruits, with secure checkout and order history. | [GitHub](https://github.com/mahmoudahmed1718/ecommerce) |
+| 🩳 **Clothing Store** | E-commerce app for browsing, ordering, and managing fresh fruits, with secure checkout and order history. | [GitHub](https://github.com/mahmoudahmed1718/ecommerce) |
 | 📊 **E-Commerce Dashboard** | Dashboard for managing products, orders, and customers with real-time analytics and inventory. | [GitHub](https://github.com/mahmoudahmed1718/ecommercedash) |
 
 ---
