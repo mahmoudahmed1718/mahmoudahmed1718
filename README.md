@@ -22,7 +22,7 @@ I focus on delivering high-performance, user-friendly solutions using modern UI/
 
 ## 🧰 Tech Stack
 
-#### 💻 Programming Languages
+### 💻 Programming Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
